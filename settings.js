@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Zeus Botz" //namabot kalian
-global.ownername= "Zeus Xd" //nama kalian
+global.botname = "http://ī.am/Ɠαɳȥ-XԂ࿐" //namabot kalian
+global.ownername= "http://ī.am/leviXD​᭄" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/zeus" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeus" //bebas
-global.email = "zeusxdc@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
+global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
+global.email = "leviadnansyahlevi@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6287771040100'] //premium user
-global.owner = ["6287771040100","6282114680993"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6287771040100" // nomor wa kalian
-global.ownernomerr = "+6287771040100" //nmr wa kalian
+global.premium = ['6285172446692'] //premium user
+global.owner = ["6285172446692","6285172446692"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285172446692" // nomor wa kalian
+global.ownernomerr = "6285172446692" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Zeus' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeusXd' //sticker wm ganti nama kalian
+global.packname = '© http://ī.am/leviXD​᭄' //sticker wm ubah
+global.author = 'Di Buat Oleh http://ī.am/leviXD​᭄' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69

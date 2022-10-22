@@ -1769,28 +1769,24 @@ exports.leave = () =>{
 Goodbye`
 }
 exports.source = () =>{
-return`*------「 SOURCE CODE 」 ------*
+return`*------「 MAU SC JOIN 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+GCBOT1: https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz
+GCBOT2: https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-Buat kalian yang sudah donasi bisa kirim bukti
-donasi ke owner agar bisa di masukkan ke list donasi
-
-Thanks!
-
-Contact person Owner:
-wa.me/${ownernomer}
-
+››╭─〘 *Donasi* 〙
+╭╡📮: Donasi ngab jgan gunain doang.
+│┝‷✧ *Ovo:* 085172446692
+│┝‷✧ *Dana:* 085172446692
+│┝‷✧ *Pulsa:* 085172446692
+│╰───···─────
+│⁺◛˖ Ingin Donasi? Chat nomor owner
+╰──────────···───╮
     `
 }
 

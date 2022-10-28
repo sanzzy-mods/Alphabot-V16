@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "GANZ-BOTZ" //namabot kalian
-global.ownername= "http://ī.am/levi-xd×͜×​᭄" //nama kalian
+global.botname = "victor-botz" //namabot kalian
+global.ownername= "leviXd" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© http://ī.am/levi-xd×͜×​᭄' //sticker wm ubah
-global.author = 'Di Buat Oleh http://ī.am/levi-xd×͜×​᭄' //sticker wm ganti nama kalian
+global.packname = '© LeviXd' //sticker wm ubah
+global.author = 'Di Buat Oleh LeviXd' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69

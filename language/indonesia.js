@@ -1771,8 +1771,9 @@ Goodbye`
 exports.source = () =>{
 return`*------「 MAU SC JOIN 」 ------*
 
-GCBOT1: https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz
-GCBOT2: https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1
+GRUP1: https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz
+
+GRUP2: https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1
 `
 }
 exports.tos = (ownernomer) => {
@@ -1780,12 +1781,12 @@ exports.tos = (ownernomer) => {
 〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕
 
 ››╭─〘 *Donasi* 〙
-╭╡📮: Donasi ngab jgan gunain doang.
+╭╡📮: Donasi Untuk LeviXd
 │┝‷✧ *Ovo:* 085172446692
 │┝‷✧ *Dana:* 085172446692
 │┝‷✧ *Pulsa:* 085172446692
 │╰───···─────
-│⁺◛˖ Ingin Donasi? Chat nomor owner
+│⁺◛˖ Arigatou Gozaimasu
 ╰──────────···───╮
     `
 }

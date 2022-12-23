@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "VICTOR BOT" //namabot kalian
-global.ownername= "LEVI GYZ" //nama kalian
+global.ownername= "LEVI WANGYY" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
@@ -35,15 +35,15 @@ global.email = "leviadnansyahlevi@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285172446692'] //premium user
-global.owner = ["6285172446692","6282245768235"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282245768235" // nomor wa kalian
+global.owner = ["6285172446692","6282131369002"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282131369002" // nomor wa kalian
 global.ownernomerr = "6285172446692" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© CREATED BY VICTOR BOT' //sticker wm ubah
-global.author = 'Di Buat Oleh LEVI GYZ' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh LEVI WANGYY' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
